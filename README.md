@@ -127,3 +127,4 @@ The extension does [log basic telemetry](docs/telemetry.md) for what is being se
 ## Acknowledgments
 
 Microsoft *Web Template Studio* was [initially created by Microsoft Garage interns](docs/acknowledgments.md). We hope many more continue with the project.
+#1
